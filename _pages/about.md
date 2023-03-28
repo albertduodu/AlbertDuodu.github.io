@@ -20,4 +20,4 @@ You can contact me at albert 'dot' duodu ‘at’ nek.lu.se or albert 'dot' duod
 
 
 [**Research Interest**]()   
-Causal inference, Trade and environment, Spatial Analysis, Development Economics
+Causal inference, Trade and environment, Spatial analysis, Development economics
