@@ -16,3 +16,8 @@ I am particularly interested in how the interplay of international trade, offsho
 
 
 You can contact me at albert 'dot' duodu ‘at’ nek.lu.se or albert 'dot' duodu ‘at’ warwick.ac.uk
+
+
+
+[**Research Interest**]()   
+Causal inference, Trade and environment, Spatial Analysiss
