@@ -34,6 +34,6 @@ There is evidence that increased import competition can lead to a reduction in d
 
 [**Publication**]
 
-[**Moonlighting Behavior among Migrants: Determinants and Implications for Wellbeing in South Africa**](https://sihma.org.za/journals/AHMR%208_2%202.%20Moonlighting%20Behaviour%20among%20Migrants%20and%20Wellbeing%20in%20South%20Africa.pdf) <sm  style="font-size: 0.8em;"><i> Joint with E. Quarshie, I. Alagidede, E.T.Tosi</i></sm> 
+[**Moonlighting Behavior among Migrants: Determinants and Implications for Wellbeing in South Africa**](https://sihma.org.za/journals/AHMR%208_2%202.%20Moonlighting%20Behaviour%20among%20Migrants%20and%20Wellbeing%20in%20South%20Africa.pdf) <sm  style="font-size: 0.8em;">African Human Mobility Review </sm>  <sm  style="font-size: 0.8em;"><i> Joint with E. Quarshie, I. Alagidede, E.T.Tosi</i></sm> 
 
-<sm  style="font-size: 0.8em;">African Human Mobility Review </sm>  
+ 
