@@ -4,7 +4,7 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-**Working Papers**
+[**Working Papers**]
 
 [**Offshoring and Manufacturing Cleanup**]() 
 
@@ -28,9 +28,9 @@ There is evidence that increased import competition can lead to a reduction in d
 
 
 
-**Work in Progress**
+[**Work in Progress**][]
 
-1. [**Does offshoring affect firms investment in cleaner technologies?**]()   
+[**Does offshoring affect firms investment in cleaner technologies?**]()   
 <sm  style="font-size: 0.8em;">
 
 </sm>
