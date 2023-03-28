@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 4th year PhD student at [Lund University](https://portal.research.lu.se/en/persons/albert-duodu).
+Hi! Welcome to my homepage. I am currently a 4th year PhD student at [Lund University](https://portal.research.lu.se/en/persons/albert-duodu).
 
 I work at the intersection of international trade and environment - with particular interest in applied microeconometrics and spatial analysis. 
 
