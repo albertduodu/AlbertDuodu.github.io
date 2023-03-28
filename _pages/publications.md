@@ -28,7 +28,7 @@ There is evidence that increased import competition can lead to a reduction in d
 
 
 
-[**Work in Progress**][]
+[**Work in Progress**]
 
 [**Does offshoring affect firms investment in cleaner technologies?**]()   
 <sm  style="font-size: 0.8em;">
