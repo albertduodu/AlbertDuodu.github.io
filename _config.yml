@@ -83,7 +83,7 @@ author:
   name             : "Albert Duodu"
   avatar           : "profile.jpg"
   bio              : "PhD student in Economics"
-  location         : "Sweden"
+  location         : #"Sweden"
   employer         : Lund University
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
