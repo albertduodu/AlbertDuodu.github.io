@@ -6,7 +6,7 @@ author_profile: true
 ---
 ** Working Papers**
 
- [**Offshoring and Manufacturing Cleanup**]() 
+[**Offshoring and Manufacturing Cleanup**]() 
 
 <sm style="font-size: 0.8em;">
 A large share of carbon emissions arises from the production of goods and from burning fossil fuel. However, between 2007 and 2014, air pollution emissions from Sweden’s manufacturing fell by 29 percent despite a substantial increase in manufacturing output. In this paper, I exploit detailed product-level information on production, trade and emissions for Swedish manufacturing firms to estimate how firms adjust their production decisions in response to supply shocks in trading partner markets. Using a shift-share instrument, I show that offshoring can lead to a significant reduction in firms emission intensity and the role environmental policy arbitrage plays in this effect is nontrivial. The latter results show that clean-ups are highly unevenly distributed among sectors. Dirty industries benefits more in terms of emission efficiency, and highly productive firms such as multinationals can combine both imports of (dirty) inputs and over-concentration of affiliates in laxer countries to significantly reduce carbon footprints. The findings suggest that harmonising environmental policies may be an effective way to address climate change and other ecological crises.
