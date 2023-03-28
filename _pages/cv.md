@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{https://drive.google.com/drive/u/0/folders1Vf3097jGiYDezIEi1IPqsyMlOG6wqHoY}
+[Download CV here](https://drive.google.com/file/d/1CMwa9MdHuPzC1E4q4yHUF9ik6pc8UMLK/view?usp=share_link)
 
 #Education
 #======
