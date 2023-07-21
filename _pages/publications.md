@@ -12,11 +12,9 @@ author_profile: true
 A large share of carbon emissions arises from the production of goods and from burning fossil fuel. However, between 2007 and 2014, air pollution emissions from Sweden’s manufacturing fell by 29 percent despite a substantial increase in manufacturing output. In this paper, I exploit detailed product-level information on production, trade and emissions for Swedish manufacturing firms to estimate how firms adjust their production decisions in response to supply shocks in trading partner markets. Using a shift-share instrument, I show that offshoring can lead to a significant reduction in firms emission intensity and the role environmental policy arbitrage plays in this effect is nontrivial. The latter results show that clean-ups are highly unevenly distributed among sectors. Dirty industries benefits more in terms of emission efficiency, and highly productive firms such as multinationals can combine both imports of (dirty) inputs and over-concentration of affiliates in laxer countries to significantly reduce carbon footprints. The findings suggest that harmonising environmental policies may be an effective way to address climate change and other ecological crises.
 </sm>
 
- [**From Energy Crunch to Manufacturing Slump:
-A Micro-level Analysis of Energy Price Impact on Swedish Firms**]()   
-
+ [**From Energy Crunch to Manufacturing Slump: A Micro-level Analysis of Energy Price Impact on Swedish Firms**]()   
 <sm  style="font-size: 0.8em;">
-This paper investigates the effect of energy prices on firm competitiveness and carbon leakage using a novel micro-level data of Swedish Manufacturing firms in the period 2007-2014. Using a shift-share instrument that isolates the exogenous variation in firm-specific energy prices, I show that the impact of energy prices (a proxy of environmental regulations) on productivity, employment and import of energy-intensive products is non-trivial and heterogeneous. First, I estimate that a 10% increase in energy prices at firm level leads to a 0.18% decrease firm productivity, 5% decline in employment and a small insignificant impact on input import. The negative effect on employment varies across sectors and occupations. The negative impact on employment does not disproportionately affect low-skilled workers and is biased in favor of full-time employees. By simulating the introduction EU-ETS, I find that the effect is amplified in EU-ETS firms, and energy-intensive sectors.
+In this paper, I examined the impact of energy prices on manufacturing firms  by utilizing a shift-share instrument that isolates the exogenous variation in firm-specific energy prices. The analysis reveals a dual impact of energy price inflation. On one hand, energy price shock contributes to positive environmental outcomes by reducing energy consumption and CO2 emissions. On the other hand, it exerts detrimental effects on firms' productivity, employment, and the risk of potential carbon leakage. Furthermore, firms demonstrate a propensity to shift the cost burdens to consumers, exacerbating general inflation in the economy. The results demonstrate varying levels of heterogeneity across manufacturing sectors, including energy-intensive and EU-ETS firms, as well as across different occupations. Overall, these results suggest a trade-off between environmental and economic goals due to changing energy taxes.
 
 </sm>
 
@@ -31,7 +29,7 @@ There is evidence that increased import competition can lead to a reduction in d
 
 [**Work in Progress**]
 
-[**Does offshoring affect firms investment in cleaner technologies?**]()<sm  style="font-size: 0.8em;"><i> Joint with Zouheir El‑Sahli</i></sm>
+[**Environmental Neglect or Cost Reduction? Impact of Carbon Offshoring on Firms’ Pollution Abatement?**]()<sm  style="font-size: 0.8em;"><i> Joint with Zouheir El‑Sahli</i></sm>
 
 [**Publication**]
 
