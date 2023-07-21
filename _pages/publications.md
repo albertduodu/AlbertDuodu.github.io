@@ -29,7 +29,7 @@ There is evidence that increased import competition can lead to a reduction in d
 
 [**Work in Progress**]
 
-[**Environmental Neglect or Cost Reduction? Impact of Carbon Offshoring on Firms’ Pollution Abatement?**]()<sm  style="font-size: 0.8em;"><i> Joint with Zouheir El‑Sahli</i></sm>
+[**Environmental Neglect or Cost Reduction? Impact of Carbon Offshoring on Firms’ Pollution Abatement**]()<sm  style="font-size: 0.8em;"><i> Joint with Zouheir El‑Sahli</i></sm>
 
 [**Publication**]
 
