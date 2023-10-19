@@ -18,6 +18,8 @@ In this paper, I examined the impact of energy prices on manufacturing firms  by
 
 </sm>
 
+[**Working Papers**]
+
 [**Green Manufacturing Transitioning -- The Role of Localized Import Competition**]()   
 <sm  style="font-size: 0.8em;">
 There is evidence that increased import competition can lead to a reduction in domestic emissions, as domestic producers may adopt more efficient production processes in order to remain competitive with imported goods. However, this effect may not always be present, especially when nationwide import competition is assumed.  We contribute to the literature by first, investigating whether the distance between producers and importers, within a country, matters for import competition. We then asses how localized import competition effects on firm's environmental performance.  Using detailed geographical information about the location of all manufacturing firms in Sweden during the period 2005-2014, we find evidence that domestic production becomes more energy efficient in trade exposed areas. % but the effect decreases with the distance between the producer and the importer. However, the effect decreases with the distance between the producer and the importer. We find that the effect is driven by  productivity spillovers, production adjustment decisions by producers (changes in product mix), innovation and abatement investment.
@@ -31,7 +33,7 @@ There is evidence that increased import competition can lead to a reduction in d
 
 [**Environmental Neglect or Cost Reduction? Impact of Carbon Offshoring on Firms’ Pollution Abatement**]()<sm  style="font-size: 0.8em;"><i> Joint with Zouheir El‑Sahli</i></sm>
 
-[**Publication**]
+[**Pre-PhD Publication**]
 
 [**Moonlighting Behavior among Migrants: Determinants and Implications for Wellbeing in South Africa**](https://sihma.org.za/journals/AHMR%208_2%202.%20Moonlighting%20Behaviour%20among%20Migrants%20and%20Wellbeing%20in%20South%20Africa.pdf) <sm  style="font-size: 0.8em;">African Human Mobility Review </sm>  <sm  style="font-size: 0.8em;"><i> Joint with E. Quarshie, I. Alagidede, E.T.Tosi</i></sm> 
 
