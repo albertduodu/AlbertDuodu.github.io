@@ -11,7 +11,7 @@ redirect_from:
 Hi! Welcome to my homepage. I am currently in the 4th year of my PhD in Economics at [Lund University](https://portal.research.lu.se/en/persons/albert-duodu).
 
 
-My primary research interests revolve around Energy & Environmental Economics, International Trade, and Development Economics, with a particular focus on applied microeconometrics and spatial analysis.  In my research I explore the drivers of green manufacturing transitioning and the implications of asymmetric implementation and enforcement of environmental policies on firms and consumers.
+My primary research interests revolve around  International Trade, Energy & Environmental Economics, and Development Economics, with a particular focus on applied microeconometrics and spatial analysis.  In my research I explore the drivers of green manufacturing transitioning and the implications of asymmetric implementation and enforcement of environmental policies on firms and consumers.
 
 
 You can contact me at albert 'dot' duodu ‘at’ nek.lu.se or albert 'dot' duodu ‘at’ warwick.ac.uk
@@ -19,4 +19,4 @@ You can contact me at albert 'dot' duodu ‘at’ nek.lu.se or albert 'dot' duod
 
 
 [**Research Interest**]()   
-Causal inference, Trade and environment, Spatial analysis, Development economics
+International Trade, Environmental Economics, Spatial Economics, Development Economics
