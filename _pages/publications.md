@@ -19,7 +19,7 @@ In this paper, I examined the impact of energy prices on manufacturing firms  by
 
 </sm>
 
-[**Working Papers**]
+
 
 [**Green Manufacturing Transitioning -- The Role of Localized Import Competition**]()   
 <sm  style="font-size: 0.8em;">
