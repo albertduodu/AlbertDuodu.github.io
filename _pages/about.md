@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to my homepage. I am currently in the 4th year of my PhD in Economics at [Lund University](https://portal.research.lu.se/en/persons/albert-duodu).
+Hi! Welcome to my homepage. I am a PhD Candidiate in Economics at [Lund University](https://portal.research.lu.se/en/persons/albert-duodu).
 
 
 My primary research interests revolve around  International Trade, Energy & Environmental Economics, and Development Economics, with a particular focus on applied microeconometrics and spatial analysis.  In my research I explore the drivers of green manufacturing transitioning and the implications of asymmetric implementation and enforcement of environmental policies on firms and consumers.
