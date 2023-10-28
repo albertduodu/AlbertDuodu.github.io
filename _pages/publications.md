@@ -9,14 +9,9 @@ author_profile: true
 [**Carbon Offshoring and Manufacturing Cleanup**]() 
 
 <sm style="font-size: 0.8em;">
-In many developed countries, pollution stemming from manufacturing has decreased, despite a
-significant rise in output. I study how carbon offshoring – import of carbon intensive inputs, and
-concentration of manufacturing plants in countries with laxer environmental policies – have
-contributed to the manufacturing cleanup. First, I exploit detailed product-level data on
-production, trade, and emissions of Swedish manufacturing firms to examine how firms adjust their
-production decisions in response to supply shocks in trading partner markets. Next, using a
-shift-share instrument and difference-in-difference estimation strategy, I show that carbon
-offshoring activities lead to a substantial reduction in firms’ emission intensity. Paradoxically, I find that carbon offshoring result in increased transport pollution in the short run. Latter results show that the role of environmental policy arbitrage in this effect is nontrivial, and clean-ups are highly unevenly distributed among sectors. My study suggest that carbon offshoring can mask firms overall environmental policies and that efficient carbon border adjustment mechanism could serve as an effective strategy to tackling carbon leakage.
+In many developed countries, pollution stemming from manufacturing has decreased, despite a significant rise in output. I study how carbon offshoring – import of carbon intensive inputs, and concentration of manufacturing plants in countries with laxer environmental policies – have
+contributed to the manufacturing cleanup. First, I exploit detailed product-level data on production, trade, and emissions of Swedish manufacturing firms to examine how firms adjust their
+production decisions in response to supply shocks in trading partner markets. Next, using a shift-share instrument and difference-in-difference estimation strategy, I show that carbon offshoring activities lead to a substantial reduction in firms’ emission intensity. Paradoxically, I find that carbon offshoring result in increased transport pollution in the short run. Latter results show that the role of environmental policy arbitrage in this effect is nontrivial, and clean-ups are highly unevenly distributed among sectors. My study suggest that carbon offshoring can mask firms overall environmental policies and that efficient carbon border adjustment mechanism could serve as an effective strategy to tackling carbon leakage.
 
 </sm>
 
@@ -41,8 +36,8 @@ There is evidence that increased import competition can lead to a reduction in d
 
 [**Environmental Neglect or Cost Reduction? Impact of Carbon Offshoring on Firms’ Pollution Abatement**]()<sm  style="font-size: 0.8em;"><i> Joint with Zouheir El‑Sahli</i></sm>
 
-[**Outreach**]
 
-[**Moonlighting Behavior among Migrants: Determinants and Implications for Wellbeing in South Africa**](https://sihma.org.za/journals/AHMR%208_2%202.%20Moonlighting%20Behaviour%20among%20Migrants%20and%20Wellbeing%20in%20South%20Africa.pdf) <sm  style="font-size: 0.8em;">African Human Mobility Review </sm>  <sm  style="font-size: 0.8em;"><i> Joint with E. Quarshie, I. Alagidede, E.T.Tosi</i></sm> 
+
+
 
  
