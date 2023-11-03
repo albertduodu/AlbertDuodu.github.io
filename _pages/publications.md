@@ -4,7 +4,7 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-[**Job Market Paper**]
+**Job Market Paper**
 
 [**Carbon Offshoring and Manufacturing Cleanup**]() 
 
