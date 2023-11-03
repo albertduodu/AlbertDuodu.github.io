@@ -6,7 +6,7 @@ author_profile: true
 ---
 **Working Papers**
 
-[**Carbon Offshoring and Manufacturing Cleanup**](***Job Market Paper***) 
+* <a href="" style="text-decoration: none" target="_blank">Carbon Offshoring and Manufacturing Cleanup</a> (**Job Market Paper**)
 
 <sm style="font-size: 0.8em;">
 In many developed countries, pollution stemming from manufacturing has decreased, despite a significant rise in output. I study how carbon offshoring – import of carbon intensive inputs, and concentration of manufacturing plants in countries with laxer environmental policies – have
