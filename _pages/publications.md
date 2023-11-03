@@ -22,7 +22,7 @@ While raising the carbon price is an effective tool for decreasing reliance on c
 
 </sm>
 
- <a href="" style="text-decoration: none" target="_blank">**Green Manufacturing Transitioning -- The Role of Localized Import Competition**</a> (*Joint with Zouheir El‑Sahli*)
+ <a href="" style="text-decoration: none" target="_blank">**Green Manufacturing Transitioning -- The Role of Localized Import Competition**</a> (<sm  style="font-size: 0.8em;"><i> Joint with Zouheir El‑Sahli</i></sm>)
 
 <sm  style="font-size: 0.8em;">
 There is evidence that increased import competition can lead to a reduction in domestic emissions, as domestic producers may adopt more efficient production processes in order to remain competitive with imported goods. However, this effect may not always be present, especially when nationwide import competition is assumed.  We contribute to the literature by first, investigating whether the distance between producers and importers, within a country, matters for import competition. We then asses how localized import competition effects on firm's environmental performance.  Using detailed geographical information about the location of all manufacturing firms in Sweden during the period 2005-2014, we find evidence that domestic production becomes more energy efficient in trade exposed areas. % but the effect decreases with the distance between the producer and the importer. However, the effect decreases with the distance between the producer and the importer. We find that the effect is driven by  productivity spillovers, production adjustment decisions by producers (changes in product mix), innovation and abatement investment.
