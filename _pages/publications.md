@@ -4,7 +4,7 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-[**Working Papers**]
+[**Job Market Paper**]
 
 [**Carbon Offshoring and Manufacturing Cleanup**]() 
 
@@ -15,6 +15,7 @@ production decisions in response to supply shocks in trading partner markets. Ne
 
 </sm>
 
+[**Working Papers**]
  [**Energy Cost and Competitiveness Risk: An Implication for Climate  Policies**]()   
 <sm  style="font-size: 0.8em;">
 While raising the carbon price is an effective tool for decreasing reliance on carbon-intensive production sources, it has also raised substantial concerns among policymakers that  higher energy cost will render manufacturing firms less competitive and potentially lead to increased consumer prices. In this paper, I examined the impact of energy prices on manufacturing firms  by using a shift-share instrument and an event-style difference-in-difference approaches that isolate the exogenous variation in firm-specific energy prices. The analysis reveals a dual impact of energy price inflation. On one hand, energy price shock contributes to positive environmental outcomes by reducing energy consumption and $CO_2$ emissions. On the other hand, it exerts detrimental effects on firms' productivity, employment, and the risk of potential carbon leakage. Furthermore, firms demonstrate a propensity to shift the cost burdens to consumers, exacerbating general inflation in the economy. The results show varying levels of heterogeneity across manufacturing sectors, including energy-intensive and EU-ETS firms, as well as across different occupations. Overall, the findings suggest a trade-off between environmental and economic goals due to increasing energy taxes
