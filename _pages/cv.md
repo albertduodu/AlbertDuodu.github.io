@@ -9,6 +9,12 @@ redirect_from:
 
 You can find the complete version of my CV <a href="https://drive.google.com/file/d/1QcbA4Oe2aPUzuJyl-JKn9G-dcHP3_v12/view" style="text-decoration: none" target="_blank">here</a>.
 
+Education
+======
+* PhD in Economics, Lund University, 2019 - Ongoing
+  *  Visiting PhD Student, University of Warwick, January 2023 to June 2023
+* Msc in Economic, Lund University, 2017 - 2019
+* Bsc in Economics, University of Ghana, 2009 - 2014
 
 
  
