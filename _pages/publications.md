@@ -9,9 +9,12 @@ author_profile: true
 <a href="" style="text-decoration: none" target="_blank">**Carbon Offshoring and Manufacturing Cleanup**</a> (***Job Market Paper***)
 
 <sm style="font-size: 0.8em;">
-In many developed countries, pollution stemming from manufacturing has decreased, despite a significant rise in output. I study how carbon offshoring – import of carbon intensive inputs, and concentration of manufacturing plants in countries with laxer environmental policies – have
-contributed to the manufacturing cleanup. First, I exploit detailed product-level data on production, trade, and emissions of Swedish manufacturing firms to examine how firms adjust their
-production decisions in response to supply shocks in trading partner markets. Next, using a shift-share instrument and difference-in-difference estimation strategy, I show that carbon offshoring activities lead to a substantial composition effect -- where multi-product firms change their product mix towards low emission-intensive products. Paradoxically, I find that carbon offshoring result in increased transport pollution in the short run. Latter results show that the role of environmental policy arbitrage in this effect is nontrivial, and clean-ups are highly unevenly distributed among sectors. My study suggest that carbon offshoring can mask firms overall environmental policies and that efficient carbon border adjustment mechanism could serve as an effective strategy to tackling carbon leakage.
+In many developed countries, pollution stemming from manufacturing has decreased, despite a
+significant rise in output. I study how carbon offshoring – import of carbon intensive inputs, own-produced goods and
+concentration of manufacturing plants in countries with laxer environmental policies – have
+contributed to the manufacturing cleanup. First, I exploit detailed product-level data on
+production, trade, and emissions of Swedish manufacturing firms to examine how firms adjust their
+production decisions in response to supply shocks in trading partner markets. Next, using a shift-share instrument and difference-in-difference estimation strategy, I show that carbon offshoring activities lead to a substantial composition effect -- where multi-product firms change their product mix towards low emission-intensive products. Paradoxically, I find that carbon offshoring  also result in increased transport pollution in the short run. This suggest that carbon offshoring can mask firms overall environmental performance. Latter results show that the role of environmental policy arbitrage in this effect is nontrivial, and clean-ups are highly unevenly distributed among sectors. My study recommends that efficient carbon border adjustment mechanism could serve as an effective strategy to tackling carbon leakage.
 
 </sm>
 
