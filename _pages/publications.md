@@ -6,7 +6,7 @@ author_profile: true
 ---
 **Working Papers**
 
-<a href="/Users/al7780du/Documents/GitHub/albertduodu.github.io/files/Albert_JMP.pdf" style="text-decoration: none" target="_blank">**Carbon Offshoring and Manufacturing Cleanup**</a> (***Job Market Paper***)
+<a href="https://www.dropbox.com/scl/fi/vo11fu9yo22qk6vd2jd4n/Albert_JMP.pdf?rlkey=x7qwvggw8d4ju9cgpim0kyp61&dl=0" style="text-decoration: none" target="_blank">**Carbon Offshoring and Manufacturing Cleanup**</a> (***Job Market Paper***)
 
 <sm style="font-size: 0.8em;">
 In many developed countries, pollution stemming from manufacturing has decreased, despite a
