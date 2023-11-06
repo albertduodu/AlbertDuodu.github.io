@@ -9,7 +9,7 @@ author_profile: true
 <a href="https://www.dropbox.com/scl/fi/vo11fu9yo22qk6vd2jd4n/Albert_JMP.pdf?rlkey=x7qwvggw8d4ju9cgpim0kyp61&dl=0" style="text-decoration: none" target="_blank">**Carbon Offshoring and Manufacturing Cleanup**</a> (***Job Market Paper***)
 
 <sm style="font-size: 0.8em;">
-In many developed countries, pollution stemming from manufacturing has decreased, despite a
+In many developed countries, pollution stemming from manufacturing has decreased, despite a 
 significant rise in output. I study how carbon offshoring – import of carbon intensive inputs, own-produced goods and
 concentration of manufacturing plants in countries with laxer environmental policies – have
 contributed to the manufacturing cleanup. First, I exploit detailed product-level data on
