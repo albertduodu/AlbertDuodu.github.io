@@ -9,22 +9,23 @@ author_profile: true
 <a href="https://www.dropbox.com/scl/fi/vo11fu9yo22qk6vd2jd4n/Albert_JMP.pdf?rlkey=x7qwvggw8d4ju9cgpim0kyp61&dl=0" style="text-decoration: none" target="_blank">**Carbon Offshoring and Manufacturing Cleanup**</a> (***Job Market Paper***)
 
 <sm style="font-size: 0.8em;">
-Is carbon offshoring responsible for the environmental clean-ups of manufacturing firms in high-income countries? While studies have shown that the reduction in
-emissions from these firms could be attributed to technological adoption, we fear that
-carbon offshoring may play a significant role, potentially undermining climate policies.
-I study how carbon offshoring have contributed to the manufacturing cleanup and conduct key heterogeneous effects. To do this, I first exploit detailed product-level data
-on production, trade, and emissions of Swedish manufacturing firms to examine how
-firms adjust their production decisions in response to supply shocks in trading partner
-markets. Next, using a shift-share instrument and difference-in-difference estimation
-strategy, I show that carbon offshoring activities lead to a substantial reduction in
-emission intensity. However, this result conceals interesting heterogeneity in terms
-of offshoring strategies, the type of pollution, and the types of firms and industries
-involved in offshoring. Strikingly, I find that most significant form of carbon leakage occurs through the concentration of multinational foreign direct investment (FDI)
-abroad, followed by the import of carbon inputs and then the import of semi-finished
-goods. My results also show that offshoring may not necessarily lead to a reduction in
-overall firm-level emissions, as it increases transport pollution in the short run. Latter
-results show that the role of environmental policy arbitrage in this effect is nontrivial,
-and clean-ups are highly unevenly distributed among sectors
+Production in manufacturing firms in high income countries is generally becoming
+cleaner. Some of this trend has been shown to be due to adoption of new technologies,
+but carbon offshoring – i.e. when dirty production at home is replaced with imports
+of carbon-intensive products from abroad – may be an additional factor. If so, this
+is concerning, since it risks undermining climate policies by simply moving emissions
+to countries with laxer regulations. This is the focus of this paper. Leveraging rich
+product-level data encompassing production, trade, and emissions from Swedish manufacturing firms, the paper examines how firms adjust their production decisions in
+response to supply shocks within their trading partner markets. Employing a combination of shift-share instrumental variables and a difference-in-difference estimation
+approach, the analysis reveals that carbon offshoring activities leads to a substantial
+reduction in average production-based emission intensity. In fact, a 10% increase in the
+import of energy-intensive goods can result in firms’ production processes becoming
+5% cleaner. This suggests that carbon leakage is a valid policy concern. However, my
+results also show that the positive effect on production-based emissions is partly counteracted by a negative effect through increased transportation emissions, and it is not
+clear what the overall effect on emissions will be. Further, the effect of offshoring on
+production emissions also depends on the type of offshoring. For instance, offshoring
+in the form of FDI has a much larger emissions-reducing effect than offshoring in the
+form of imports of inputs not produced in-firm.
 
 </sm>
 
