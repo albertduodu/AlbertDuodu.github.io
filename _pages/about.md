@@ -20,4 +20,4 @@ You can contact me at albert 'dot' duodu ‘at’ nek.lu.se or albert 'dot' duod
 
 
 [**Research Interest**]()   
-International Trade, Environmental Economics, Spatial Economics, Development Economics
+International Trade, Environmental Economics, Development Economics
