@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find the complete version of my CV <a href="https://drive.google.com/file/d/1QcbA4Oe2aPUzuJyl-JKn9G-dcHP3_v12/view" style="text-decoration: none" target="_blank">here</a>.
+You can find the complete version of my CV <a href="https://drive.google.com/file/d/1wbP9fze_oI4GX7LJz2zK5stfMDhZscv8/view" style="text-decoration: none" target="_blank">here</a>.
 
 Education
 ======
