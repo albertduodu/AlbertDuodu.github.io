@@ -39,16 +39,7 @@ While raising the carbon price is an effective tool for decreasing reliance on c
  <a>**Local Import Competition and Firm-level Emissions**</a> - <sm  style="font-size: 0.8em;"><i> Joint with Zouheir El‑Sahli (Draft soon)</i></sm>
 
 <sm  style="font-size: 0.8em;">
-It is established in the literature that import competition may lead to efficiency
-gains in the firms facing such competition. It is, however, unclear whether any gains
-extend to the environmental behavior of the firms. We contribute to the literature
-by investigating how local import competition, defined at different spatial dimensions
-within Sweden, may affect emissions by the local producing firms. Using detailed
-geographical information about the location of all manufacturing firms in Sweden, we
-find evidence that domestic production becomes more energy efficient when exposed
-to import competition. This effect wanes with the distance between the producer and
-the importer. The emissions reduction is driven by productivity spillovers, changes in
-the product mix, and emissions abatement investment.
+It is established in the literature that import competition may lead to efficiency gains in the firms facing such competition. It is, however, unclear whether any gains extend to the environmental behavior of the firms. We contribute to the literature by investigating how local import competition, defined at different spatial dimensions within Sweden, may affect emissions by the local producing firms. Using detailed geographical information about the location of all manufacturing firms in Sweden, we find evidence that domestic production becomes more energy efficient when exposed to import competition. This effect wanes with the distance between the producer and the importer. The emissions reduction is driven by productivity spillovers, changes in the product mix, and emissions abatement investment.
 
 </sm>
 
