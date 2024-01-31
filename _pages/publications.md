@@ -36,10 +36,19 @@ While raising the carbon price is an effective tool for decreasing reliance on c
 
 </sm>
 
- <a>**Green Manufacturing Transitioning -- The Role of Localized Import Competition**</a> - <sm  style="font-size: 0.8em;"><i> Joint with Zouheir El‑Sahli (Draft soon)</i></sm>
+ <a>**Local Import Competition and Firm-level Emissions**</a> - <sm  style="font-size: 0.8em;"><i> Joint with Zouheir El‑Sahli (Draft soon)</i></sm>
 
 <sm  style="font-size: 0.8em;">
-There is evidence that increased import competition can lead to a reduction in domestic emissions, as domestic producers may adopt more efficient production processes in order to remain competitive with imported goods. However, this effect may not always be present, especially when nationwide import competition is assumed. We contribute to the literature by first, investigating whether the distance between producers and importers, within a country, matters for import competition. We then asses how localized import competition effects on firm's environmental performance. Using detailed geographical information about the location of all manufacturing firms in Sweden during the period 2005-2014, we find evidence that domestic production becomes more energy efficient in trade exposed areas.  However, the effect decreases with the distance between the producer and the importer. We find that the effect is driven by productivity spillovers, production adjustment decisions by producers (changes in product mix), innovation and abatement investment.
+It is established in the literature that import competition may lead to efficiency
+gains in the firms facing such competition. It is, however, unclear whether any gains
+extend to the environmental behavior of the firms. We contribute to the literature
+by investigating how local import competition, defined at different spatial dimensions
+within Sweden, may affect emissions by the local producing firms. Using detailed
+geographical information about the location of all manufacturing firms in Sweden, we
+find evidence that domestic production becomes more energy efficient when exposed
+to import competition. This effect wanes with the distance between the producer and
+the importer. The emissions reduction is driven by productivity spillovers, changes in
+the product mix, and emissions abatement investment.
 
 </sm>
 
