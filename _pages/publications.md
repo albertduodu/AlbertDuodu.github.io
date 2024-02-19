@@ -6,7 +6,7 @@ author_profile: true
 ---
 **Working Papers**
 
-<a href="https://www.dropbox.com/scl/fi/vo11fu9yo22qk6vd2jd4n/Albert_JMP.pdf?rlkey=x7qwvggw8d4ju9cgpim0kyp61&dl=0" style="text-decoration: none" target="_blank">**Carbon Offshoring and Manufacturing Cleanup**</a> (***Job Market Paper***)
+<a href="https://www.dropbox.com/scl/fi/wyetqqcnfh3xmrinl023d/Albert_JMP.pdf?rlkey=4eiowect3ub63g6tpxphjueib&dl=0" style="text-decoration: none" target="_blank">**Carbon Offshoring and Manufacturing Cleanup**</a> (***Job Market Paper***)
 
 <sm style="font-size: 0.8em;">
 Production in manufacturing firms in high income countries is generally becoming
