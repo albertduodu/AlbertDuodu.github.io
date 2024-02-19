@@ -9,23 +9,7 @@ author_profile: true
 <a href="https://www.dropbox.com/scl/fi/wyetqqcnfh3xmrinl023d/Albert_JMP.pdf?rlkey=4eiowect3ub63g6tpxphjueib&dl=0" style="text-decoration: none" target="_blank">**Carbon Offshoring and Manufacturing Cleanup**</a> (***Job Market Paper***)
 
 <sm style="font-size: 0.8em;">
-Production in manufacturing firms in high income countries is generally becoming
-cleaner. Some of this trend has been shown to be due to adoption of new technologies,
-but carbon offshoring – i.e. when dirty production at home is replaced with imports
-of carbon-intensive products from abroad – may be an additional factor. If so, this
-is concerning, since it risks undermining climate policies by simply moving emissions
-to countries with laxer regulations. This is the focus of this paper. Leveraging rich
-product-level data encompassing production, trade, and emissions from Swedish manufacturing firms, the paper examines how firms adjust their production decisions in
-response to supply shocks within their trading partner markets. Employing a combination of shift-share instrumental variables and a difference-in-difference estimation
-approach, the analysis reveals that carbon offshoring activities leads to a substantial
-reduction in average production-based emission intensity. In fact, a 10% increase in the
-import of energy-intensive goods can result in firms’ production processes becoming
-5% cleaner. This suggests that carbon leakage is a valid policy concern. However, my
-results also show that the positive effect on production-based emissions is partly counteracted by a negative effect through increased transportation emissions, and it is not
-clear what the overall effect on emissions will be. Further, the effect of offshoring on
-production emissions also depends on the type of offshoring. For instance, offshoring
-in the form of FDI has a much larger emissions-reducing effect than offshoring in the
-form of imports of inputs not produced in-firm.
+Production in manufacturing firms in high income countries is generally becoming cleaner. Some of this trend has been shown to be due to adoption of new technologies, but carbon offshoring – i.e. when dirty production at home is replaced with imports of carbon-intensive products from abroad – may be an additional factor. If so, this is concerning, since it risks undermining climate policies by simply moving emissions to countries with laxer regulations. This is the focus of this paper. Leveraging rich Swedish firm-product level data between 2005-2014, and employing a combination of shift-share instrumental variables and a difference-in-difference estimation approach, I find compelling paradox: a 10\% increase in the import of emission-intensive goods can result in firms' production processes becoming 5\% cleaner but increases transport emissions by 2\%. This suggests that carbon offshoring does not only shift emissions elsewhere but also generate new ones (via transportation). Additionally, I show that the type of offshoring, such as foreign direct investment (FDI)  has a much larger emissions-reducing effect than offshoring in the form of imports of inputs not produced in-firm.
 
 </sm>
 
