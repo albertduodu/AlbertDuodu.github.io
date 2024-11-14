@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a **Postdoctoral Researcher**  at <a href="https://www.aalto.fi/en/department-of-economics/albert-duodu" style="text-decoration: none" target="_blank"> Aalto University </a> (Helsinki Graduate School of Economics). I completed my **PhD in Economics** from <a href="https://portal.research.lu.se/en/persons/albert-duodu" style="text-decoration: none" target="_blank">Lund University</a> in 2024. 
+Hi! I’m a **Postdoctoral Researcher**  at <a href="https://www.aalto.fi/en/department-of-economics/albert-duodu" style="text-decoration: none" target="_blank"> Aalto University </a> (Helsinki Graduate School of Economics). I completed my **PhD in Economics** at <a href="https://portal.research.lu.se/en/persons/albert-duodu" style="text-decoration: none" target="_blank"> Lund University School of Economics and Business </a> in 2024. 
 
 
 My primary research interests revolve around  **International Trade**, and **Environmental Economics**, with a particular focus on applied microeconometrics and spatial analysis.  In my research I explore the drivers of green manufacturing transitioning and the implications of asymmetric implementation and enforcement of environmental policies on firms and consumers.
