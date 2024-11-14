@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a **Postdoctoral Researcher**  at <a href="https://www.aalto.fi/en/department-of-economics/albert-duodu" style="text-decoration: none" target="_blank"> Aalto University </a> within the <a href="https://www.helsinkigse.fi" style="text-decoration: none" target="_blank"> Helsinki Graduate School of Economics </a>. I completed my **PhD in Economics** at <a href="https://portal.research.lu.se/en/persons/albert-duodu" style="text-decoration: none" target="_blank"> Lund University  </a> in 2024. 
+Hi! I’m a **Postdoctoral Researcher**  at <a href="https://www.aalto.fi/en/department-of-economics/albert-duodu" style="text-decoration: none" target="_blank"> Aalto University </a> . I completed my **PhD in Economics** at <a href="https://portal.research.lu.se/en/persons/albert-duodu" style="text-decoration: none" target="_blank"> Lund University  </a> in 2024. 
 
 
 
