@@ -18,7 +18,8 @@ I’m a <strong style="color: brown;">Postdoctoral Researcher</strong> at <a hre
 
 
 
-My primary research interests revolve around  **International Trade**, and **Environmental Economics**, with a particular focus on applied microeconometrics and spatial analysis.  In my research I explore the drivers of green manufacturing transitioning and the implications of asymmetric implementation and enforcement of environmental policies on firms and consumers.
+My primary research interests revolve around <strong style="color: brown;">International Trade</strong> and <strong style="color: brown;">Environmental Economics</strong>, with a particular focus on applied microeconometrics and spatial analysis. In my research, I explore the drivers of green manufacturing transitioning and the implications of asymmetric implementation and enforcement of environmental policies on firms and consumers.
+
 
 
 You can contact me at albert 'dot' duodu ‘at’ aalto.fi or albert 'dot' duodu ‘at’ nek.lu.se.
